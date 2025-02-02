@@ -1,6 +1,11 @@
-import { redirect } from "next/navigation";
+import { Button } from "@/components/ui/button"
+import Image from "next/image"
+import Dashboard from "./dashboard/page"
 
-export default function Home() {
-  redirect("/dashboard"); // Automatically redirect to the dashboard
-  return null;
+export default function Home(){
+  return (
+    <div>
+     <Dashboard />
+    </div>
+  )
 }
