@@ -3,7 +3,7 @@ export default [
       name: 'YouTube SEO',
       desc: 'An AI tool that generates optimized YouTube titles, descriptions, and tags for better search rankings.',
       category: "YouTube",
-      icon: 'https://www.flaticon.com/free-icon/youtube_1384060',
+      icon: 'https://cdn-icons-png.flaticon.com/128/15302/15302398.png',
       atPrompt: 'Generate 5 optimized YouTube titles, descriptions, and tags based on your video topic.',
       slug: 'youtube-seo',
       form: [
@@ -108,7 +108,7 @@ export default [
       name: 'Ad Copy Generator',
       desc: 'An AI tool that generates persuasive ad copies for your marketing campaigns.',
       category: "Advertising",
-      icon: 'https://www.flaticon.com/free-icon/advertising_2945580',
+      icon: 'https://cdn-icons-png.flaticon.com/128/5358/5358485.png',
       atPrompt: 'Generate 5 ad copies based on your product and target audience.',
       slug: 'ad-copy-generator',
       form: [
@@ -129,7 +129,7 @@ export default [
       name: 'Product Descriptions',
       desc: 'An AI tool that generates compelling product descriptions for your e-commerce store.',
       category: "E-commerce",
-      icon: 'https://www.flaticon.com/free-icon/ecommerce_2945578',
+      icon: 'https://cdn-icons-png.flaticon.com/128/10951/10951869.png',
       atPrompt: 'Generate 5 product descriptions based on your product details.',
       slug: 'product-descriptions',
       form: [
